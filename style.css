@@ -1,0 +1,14 @@
+.coub{
+  width: 30vh;
+  height: 30vh;
+  background-color: #00ff00;
+
+}
+textarea,button{
+  display: block;
+}
+
+
+button{
+  margin: 20px 0 0 100px;
+}
